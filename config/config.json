@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x23ceDFfeC1a4BE3c1D6ECDe8178da7bc4e75b69C",
+  "SCAN_LINK": "https://polygonscan.com/address/0x23cedffec1a4be3c1d6ecde8178da7bc4e75b69c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Potato Heads",
+  "SYMBOL": "CPH",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-potato-heads",
+  "SHOW_BACKGROUND": true
+}
